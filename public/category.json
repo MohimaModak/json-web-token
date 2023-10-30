@@ -1,0 +1,44 @@
+[
+  {
+    "service_id": 1,
+    "name": "Love Category",
+    "image": "https://images.pexels.com/photos/1415131/pexels-photo-1415131.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Title 1",
+    "description": "A collection of services that promote and enhance love and relationships, providing guidance and support for couples and individuals seeking to strengthen their emotional connections and bonds."
+  },
+  {
+    "service_id": 2,
+    "name": "Food Category",
+    "image": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Title 2",
+    "description": "An array of culinary services that cater to diverse tastes and preferences, offering delectable dishes and recipes from various cuisines around the world, ensuring a delightful and satisfying dining experience."
+  },
+  {
+    "service_id": 3,
+    "name": "Health Category",
+    "image": "https://images.pexels.com/photos/3822117/pexels-photo-3822117.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "title": "Title 3",
+    "description": "A comprehensive range of health services aimed at promoting well-being and vitality, encompassing physical fitness, mental wellness, and holistic practices to support a balanced and healthy lifestyle."
+  },
+  {
+    "service_id": 4,
+    "name": "Education Category",
+    "image": "https://images.pexels.com/photos/8923566/pexels-photo-8923566.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Title 4",
+    "description": "An assortment of educational services dedicated to fostering knowledge acquisition and personal development, offering resources and programs designed to enhance learning and intellectual growth in various fields."
+  },
+  {
+    "service_id": 5,
+    "name": "Travel Category",
+    "image": "https://images.pexels.com/photos/8869410/pexels-photo-8869410.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "title": "Title 5",
+    "description": "A selection of travel services that cater to wanderlust and exploration, providing unique travel experiences, itineraries, and recommendations to help adventurers create memorable journeys and discover new destinations."
+  },
+  {
+    "service_id": 6,
+    "name": "Technology Category",
+    "image": "https://images.pexels.com/photos/378268/pexels-photo-378268.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Title 6",
+    "description": "An array of technology services geared towards innovation and digital advancement, offering solutions and products that leverage cutting-edge technology to simplify tasks, enhance productivity, and improve overall efficiency."
+  }
+]

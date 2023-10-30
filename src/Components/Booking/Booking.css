@@ -1,0 +1,33 @@
+/* AddProduct.css */
+.video-container {
+    position: relative;
+  }
+  
+  .video {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    z-index: 1;
+  }
+  
+  .background {
+    background-color: rgba(184, 178, 178, 0.158);
+    backdrop-filter: blur(15px);
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; /* Adjust the height to cover the desired portion */
+    background: rgba(
+      0,
+      0,
+      0,
+      0.6
+    ); /* Adjust the background color and opacity as needed */
+    z-index: 2;
+  }
+  
+  
